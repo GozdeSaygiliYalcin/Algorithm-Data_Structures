@@ -10,7 +10,7 @@ The stages according to the sort type;
 •	[2,6,16,22,18,27]
 •	[2,6,16,18,22,27]
 
-2.	BIG O NOTION
+2.	BIG O NOTATION
 According to O(n) = O (6)
 
 3.	Time complexity = [2,6,16,18,22,27]
